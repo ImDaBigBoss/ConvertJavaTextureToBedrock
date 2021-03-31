@@ -29,12 +29,12 @@ Some experimental conversions are disabled by default, but can be enabled if you
     - Tables
 
 ## Web app
-Look at https://ozelot379.github.io/ConvertJavaTextureToBedrock
+Look at https://imdabigboss.github.io/ConvertJavaTextureToBedrock
 
 Works directly in your browser - no upload and offline
 
 ## API
-Look at https://github.com/ozelot379/ConvertJavaTextureToBedrockApi
+Look at https://github.com/ozelot379/ConvertJavaTextureToBedrockApi (No longer available)
 
 ## Report issue
 Use github repo issues (https://github.com/ozelot379/ConvertJavaTextureToBedrock/issues/new/choose)
