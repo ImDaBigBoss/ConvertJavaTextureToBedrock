@@ -1,5 +1,7 @@
 THIS PROJECT IS NO OFFICIAL MINECRAFT PRODUCT - NOT AUTHORIZED OR ASSOCIATED BY MOJANG
 
+THIS PROJECR WAS ORIGINALLY MADE BY [ozelot379](https://github.com/ozelot379/)
+
 ---
 
 # Convert Minecraft Java texture packs to Bedrock texture packs
